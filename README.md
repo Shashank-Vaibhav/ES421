@@ -1,1 +1,3 @@
-# ES421
+# ESN421
+
+Learning material for modelling.
